@@ -133,5 +133,15 @@ dependencies:
     - bioconductor-plyranges=1.14.0
     - bioconductor-plotgardener=1.0.14
     - bioconductor-qvalue=2.26.0
+    - bioconductor-genomeinfodb=1.30.0
+    - bioconductor-genomeinfodbdata=1.2.7
+    - bioconductor-genomicalignments=1.30.0
+    - bioconductor-genomicranges=1.46.1
+    - bioconductor-biocio=1.4.0
+    - bioconductor-biobase=2.54.0
+    - bioconductor-biocparallel=1.28.3
+    - bioconductor-rtracklayer=1.54.0
+    - bioconductor-biocgenerics=0.40.0
+    - bioconductor-biostrings=2.62.0
 
 
