@@ -130,7 +130,7 @@ dependencies:
     - r-here=1.0.1
     - r-biocmanager=1.30.18
     - r-ggrepel=0.9.1
-    - r-ggpubr 0.4.0    
+    - r-ggpubr=0.4.0    
     - bioconductor-plotgardener=1.0.14
     - bioconductor-qvalue=2.26.0
 
