@@ -2,7 +2,6 @@ channels:
     - bioconda
     - conda-forge
     - r
-    - bioconda
 dependencies:
     - pandoc=2.14.1
     - gmp=6.2.1
