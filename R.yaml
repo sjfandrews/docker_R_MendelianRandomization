@@ -130,6 +130,7 @@ dependencies:
     - r-biocmanager=1.30.18
     - r-ggrepel=0.9.1
     - r-ggpubr=0.4.0    
+    - bioconductor-plyranges=1.14.0
     - bioconductor-plotgardener=1.0.14
     - bioconductor-qvalue=2.26.0
 
