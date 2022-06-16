@@ -15,4 +15,5 @@ RUN R --vanilla -e 'remotes::install_github("MRCIEU/TwoSampleMR@0.5.6", dependen
 RUN R --vanilla -e 'remotes::install_github("GenomicSEM/GenomicSEM", dependencies=FALSE, repos=c("http://cran.rstudio.com/"))'
 RUN R --vanilla -e 'remotes::install_github("LizaDarrous/lhcMR", dependencies=FALSE, repos=c("http://cran.rstudio.com/"))'
 RUN R --vanilla -e 'remotes::install_github("jean997/cause@v1.2.0", dependencies=FALSE, repos=c("http://cran.rstudio.com/"))'
-
+RUN R --vanilla -e 'remotes::install_github("shabbychef/ggallin", dependencies=FALSE, repos=c("http://cran.rstudio.com/"))'
+RUN R --vanilla -e 'remotes::install_github("eliocamp/ggnewscale@v0.4.7", dependencies=FALSE, repos=c("http://cran.rstudio.com/"))'
