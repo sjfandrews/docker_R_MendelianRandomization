@@ -2,6 +2,7 @@ channels:
     - bioconda
     - conda-forge
     - r
+    - bioconductor
 dependencies:
     - pandoc=2.14.1
     - gmp=6.2.1
@@ -127,4 +128,10 @@ dependencies:
     - r-loo=2.4.1
     - r-ashr=2.2_47
     - r-here=1.0.1
+    - r-biocmanager=1.30.18
+    - r-ggrepel=0.9.1
+    - r-ggpubr 0.4.0    
+    - bioconductor-plotgardener=1.0.14
+    - bioconductor-qvalue=2.26.0
+
 
