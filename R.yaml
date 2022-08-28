@@ -92,7 +92,6 @@ dependencies:
     - r-rjson=0.2.20
     - r-robustbase=0.93-9
     - r-plotly=4.10.0
-    - r-rmarkdown=2.11
     - r-covr=3.5.1
     - r-meta=5.1-1
     - r-randomForest=4.6-14
@@ -102,11 +101,9 @@ dependencies:
     - r-cachem=1.0.6
     - r-rappdirs=0.3.3
     - r-fs=1.5.2
-    - r-tibble=3.1.6
     - r-memoise=2.0.1
     - r-gargle=1.2.0
     - r-googleAuthR=1.4.1
-    - r-markdown=1.1
     - r-cairo=1.5_14
     - r-pbivnorm=0.6.0
     - r-mgsub=1.7.3
@@ -131,6 +128,9 @@ dependencies:
     - r-ggrepel=0.9.1
     - r-ggpubr=0.4.0
     - r-desctools=0.99.45
+    - r-fuzzyjoin=0.1.6
+    - r-tabulizerjars=1.0.1
+    - r-tabulizer=0.2.2
     - bioconductor-plyranges=1.14.0
     - bioconductor-plotgardener=1.0.14
     - bioconductor-qvalue=2.26.0
